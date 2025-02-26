@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/RIYA_NETWORK",),
-            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/riya_CHAT_support",),
+            InlineKeyboardButton(text="✭ ᴄʜᴀᴛᴛɪɴɢ ɢᴄ ❥", url="https://t.me/+UyhfKoAkE8w3MDhl",),
         ],
         [
             InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
@@ -91,7 +91,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/RIYA_NETWORK",),
-            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/riya_chat_support",),
+            InlineKeyboardButton(text="✭ ᴄʜᴀᴛᴛɪɴɢ ɢᴄ ❥", url="https://t.me/+UyhfKoAkE8w3MDhl",),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]

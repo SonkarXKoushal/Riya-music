@@ -9,10 +9,10 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("API_ID", "28294093"))
+API_HASH = getenv("API_HASH", "f24d982c45ab2f69a6cb8c0fee9630bd")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN", "6815304449:AAF72yqTce1ZQDDA3TpuKZFfAyXWEw_yLNI")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","ll_hunter_lll")
 # --------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002212268046))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002302799359))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 8009369344))
+OWNER_ID = int(getenv("OWNER_ID", 8142003954))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQGR8AUALmBPFGHaTIxbcLNDbrd0aXBxMNgEQ7nltlmJLCyXn_2xOu18nfwggS_0ZRfliPAT5ev4GVJdzAv9MQlc1_AkmMoozsyWTH7agMNkmaYaPy1TgKxv4r5f6AwZ3he9ij_-KzPrxCh5DmTJdB13S_I6rPsbH7KXrTBgTsMpOhlSY6wToQoEU3QHAcu81IcWIQt2W7j7OLCsR0NkpfwLyzr0hL7FPo6pqYmeu58zy7OWyJk8Esd7gHkp2HevlqYO5YbVsVUFbxyUzT7gX09NQcJSgt2soGAXcR_4fY0mu2y5yEwMZDJf5_IB_0KSdqDkiAH3qm2GOVGE-SUhsWbnNpSW9QAAAAHc0wPSAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)

@@ -12,9 +12,9 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "28294093"))
 API_HASH = getenv("API_HASH", "f24d982c45ab2f69a6cb8c0fee9630bd")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "6815304449:AAGPf5q19GMwDmHgjzbH2rWFzM2Zs7SEs6c")
+BOT_TOKEN = getenv("BOT_TOKEN", "6815304449:AAEK4T_2AhQ5wnAyN_5fdTgO_pViyQcdB4A")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_hunter_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ll_KSD_ll")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "riya_musiczx_bot")
 # --------------------------------------------------------
@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "itz_m3_riya")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://theriyamusic94:f67KlgTyzr3TTutn@cluster0.lym5x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Riya9797:Riyamusiczxbot@cluster0.eyy5z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -114,8 +114,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", "BQGR8AUALmBPFGHaTIxbcLNDbrd0aXBxMNgEQ7nltlmJLCyXn_2xOu18nfwggS_0ZRfliPAT5ev4GVJdzAv9MQlc1_AkmMoozsyWTH7agMNkmaYaPy1TgKxv4r5f6AwZ3he9ij_-KzPrxCh5DmTJdB13S_I6rPsbH7KXrTBgTsMpOhlSY6wToQoEU3QHAcu81IcWIQt2W7j7OLCsR0NkpfwLyzr0hL7FPo6pqYmeu58zy7OWyJk8Esd7gHkp2HevlqYO5YbVsVUFbxyUzT7gX09NQcJSgt2soGAXcR_4fY0mu2y5yEwMZDJf5_IB_0KSdqDkiAH3qm2GOVGE-SUhsWbnNpSW9QAAAAHc0wPSAA")
-STRING2 = getenv("STRING_SESSION2", None)
+STRING1 = getenv("STRING_SESSION", "BQGvu80Abi1DKp52rmcDhIQ3QrTH0azKPAXMzzUago440IO_rdICClZNOUil6YDt4bEdtphndqGEaWz_HTm4GlKmUvqt76Kymi1PnqKAPRekgcNg4m8hFNqvHROLVWIZDLzO37t7hNK3WC31qPjBnlJtydfdoOjI1zujtE7_IiP5Q7InyoY-EAnHJpW3WFtT1aUc_qQxhzTLahsEBjSjk7UT82SyyPNieuw7rsywZOvfCpDZr1yUEnGMclmPOAuNqHkmpd-x4VPNLJoCn3RJT0zTMU3fE4htJXzM5Qi_J6dHzxUJZYJ5b8YfDQJreexy1_u_oBQi6Wyoy9pGGbLN3HG0YIDs-AAAAAHHSubSAA")
+STRING2 = getenv("STRING_SESSION2", "BQGvu80AizVz2f-jNd_8bb-7c9BiF-4srhn2rpwLnMMQLQW27H0ZdAJY_h2eDf-GZKwUlu3TWcDSXzfuCcXbj1aK8lvFbTuw-XioifP3EsdT8VLijdyfSSIz1luu5qMvIsw3OKPQ5K4QHbad5nxg8hBMwLqNz5KHjAJX8laidzUj4qLVsiF_HSwRME1MU-owzDhu4c2BvontU8wosn-XSdfs5PpPhryodrt6DnvS11iWWW-c5DlnWBjTWRD9Q7Fk-ZNheNbcMINM1mgSsMr8uuqYYY_TCBtO0DhghYRmX4LtUgJBmKwg1K4871C2Nl2hhomsOcn79CCCmbf9MVf2q4peK8G08wAAAAHmYnpQAA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)

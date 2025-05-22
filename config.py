@@ -61,7 +61,7 @@ GIT_TOKEN = getenv(
 )  
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') 
-API_KEY = getenv("API_KEY", '30DxNexGenBots6fab95')
+API_KEY = getenv("API_KEY", 'NxGBNexGenBots0e3463)
 
 # ----------------------------------------------------------------
 # -------------------------------------------------------------------

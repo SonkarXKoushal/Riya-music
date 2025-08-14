@@ -7,11 +7,9 @@ stripe==10.7.0
 mysql-connector-python==9.0.0
 telebot==0.0.5
 youtube_dl==2021.12.17
-bing_image_downloader 
 beautifulsoup4
 bs4
 cloudscraper
-deepai
 daxxhub
 dnspython
 emojis
@@ -36,7 +34,6 @@ opencv-python
 pillow==9.5.0
 psutil
 pickledb
-pornhub-api==0.3.0
 pycountry
 pycryptodome
 pydub

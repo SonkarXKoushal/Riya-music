@@ -74,8 +74,8 @@ COOKIES_URL=getenv("COOKIES_URL" , "https://gist.githubusercontent.com/sparrow96
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+UyhfKoAkE8w3MDhl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+ovWiaEu0whoxMDQ9")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+2OdHVJZqSvw3ZGM9")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
